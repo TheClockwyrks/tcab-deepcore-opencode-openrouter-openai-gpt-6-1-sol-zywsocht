@@ -1,0 +1,15 @@
+[[media]]
+file = "descent.json.gz"
+name = "A cut into the rockbed"
+
+[[media]]
+file = "deepstone.png"
+name = "Heat beneath the cold stone"
+
+[[media]]
+file = "surface.png"
+name = "The last outpost"
+
+[[media]]
+file = "title.png"
+name = "Depth is cheap. Height is expensive."
